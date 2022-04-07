@@ -12,7 +12,7 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=rwh3IHnU46I
+https://www.youtube.com/embed?v=rwh3IHnU46I
 
 # Technology Stack
 
