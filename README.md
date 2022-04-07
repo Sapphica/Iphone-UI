@@ -6,21 +6,12 @@ Writing scrips to read emails and text messages using text to speech.
 Overhaul of all system icons. Real time IOS monitoring. 
 Built in web feeds and real time weather into the IOS lock screen.  
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.
-youtube.com/embed/rwh3IHnU46I" title="YouTube video player" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
-encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-</p>
-
     <iframe width="560" height="315"
 src="https://www.youtube.com/embed/rwh3IHnU46I" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
-https://www.youtube.com/embed/rwh3IHnU46I
 
 https://youtube.com/embed/<rwh3IHnU46I>
 
